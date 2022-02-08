@@ -2,7 +2,13 @@
 This is for jarvis voice
 
 # Installation
- pkg install git
+pkg install lolcat
+
+pkg install figlet
+
+pkg install python
+ 
+pkg install git
 
 git clone https://github.com/Juniorredcoder/Jarvis
 
