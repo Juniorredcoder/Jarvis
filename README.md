@@ -15,3 +15,8 @@ git clone https://github.com/Juniorredcoder/Jarvis
 cd Jarvis
 
 bash Jarvis.sh
+
+
+#Password
+
+hacker
